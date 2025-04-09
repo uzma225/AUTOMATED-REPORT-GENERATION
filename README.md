@@ -37,3 +37,5 @@
 7. **Viewing the Report**:  
    Once the PDF is created, you can open it using a PDF viewer (e.g., Adobe Reader or a web browser) to confirm the content.
 
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/66152297-82af-4b9e-8afd-79e14b804665)
